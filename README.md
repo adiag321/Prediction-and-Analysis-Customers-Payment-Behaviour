@@ -1,24 +1,23 @@
 # <p align = 'center'> Predicting Customers Payment Behaviour </p>
 
-## Problem Definition
+## PROBLEM DEFINATION
 
-Using various machine learning methodologies to predict the borrower's default status using borrower's information and payment behaviors.Used Clustering analysis to segment the portfolio and check if model prediction accuracy improves or not.
+In this project we have used various machine learning methodologies to predict the borrower's default status using borrower's information and payment behaviors. Used Clustering analysis to segment the portfolio and check if model prediction accuracy improves or not.
 
 The goal of this project is to:
 
-1. Check credit card holder's behaviors, trends and factors to identify default risks
-2. Predicting if borrower is going to default in next month or not given all the borrower and payment information
-3. Using cluster analysis to segment the portfolio so that we can improve the model prediction accuracy for each segment
-4. Checking techniques to make a prediction
-5. Assessing if clustering helps us to improve the model performance or not
+1. Check credit card holder's behaviors, trends and factors to identify default risks.
+2. Predicting if borrower is going to default in next month or not given all the borrower and payment information.
+3. Using cluster analysis to segment the portfolio so that we can improve the model prediction accuracy for each segment.
+4. Checking techniques to make a prediction.
+5. Assessing if clustering helps us to improve the model performance or not.
 
 
-## Dataset:
+## DATA DESCRIPTION
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
-Dataset link: 
-Default of Credit Card Clients Dataset Kaggle [https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset]
+The dataset was collected from kaggle - <a href = "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset">Default of Credit Card Clients Dataset</a>
 
 There are 25 variables:
 
@@ -49,7 +48,7 @@ There are 25 variables:
 26. default.payment.next.month: Default payment (1=yes, 0=no)
 
 
-## Data Exploration Ideas:
+## QUESTIONS TO PERFORM DATA EXPLORATION:
 
 1. How does the probability of default payment vary by categories of different demographic variables?
 2. Which variables are the strongest predictors of default payment?
