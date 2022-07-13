@@ -1,4 +1,4 @@
-# <p align = 'center'> Predicting Customers Payment Behaviour </p>
+# <p align = 'center'> Predicting and Analysing Customer's Payment Behaviour </p>
 
 ## PROBLEM DEFINATION
 
